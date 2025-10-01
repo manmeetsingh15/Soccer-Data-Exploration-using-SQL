@@ -56,8 +56,6 @@ How to Get Started
 
 Dataset: Download and set up the European Soccer Database locally.
 
-Clone Repository: git clone https://github.com/Gokul-Raja84/Data-Analysis-using-SQL
-
 Run Queries: Execute the provided SQL scripts using Jupyter Notebook or any SQL environment.
 
 Contributions
